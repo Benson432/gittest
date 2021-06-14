@@ -7,4 +7,5 @@ package com.benson;
  */
 public class User {
     String name;
+    String age;
 }
