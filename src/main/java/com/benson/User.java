@@ -6,4 +6,5 @@ package com.benson;
  * @time: 2021/6/14 19:48
  */
 public class User {
+    String name;
 }
